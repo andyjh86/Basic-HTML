@@ -12,12 +12,14 @@ index  <br>
 |---styles <br>
 |------reset.css <br>
 |------style.css <br>
-|------home.css
-
+|------home.css <br>
+|------about.css <br>
+|---about  <br>
+|------about.html <br>
 
 _homepage  starts  at index.html_ <br>
 _syle.css is universal style while home.css is for page specific styling_
-  
+_sub pages are kept in their own folder and reference images, scripts and styles in the root directory_
   
     
 
