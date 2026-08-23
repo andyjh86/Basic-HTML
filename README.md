@@ -1,4 +1,4 @@
-Basic HTML boilerplate.
+Basic HTML structure.
 
 <h1>website</h1>
 
